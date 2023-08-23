@@ -1,13 +1,13 @@
-import React from 'react'
-import logo from './logo.svg';
-import './App.scss';
-import Messages from './Messages';
+import React from "react";
+import "./App.scss";
+import Messages from "./Messages/Messages";
 
 function App() {
   return (
-    <div className="App">
-     <Messages />
-    </div>
+    <main className="App">
+      <h1>Chatter</h1>
+      <Messages />
+    </main>
   );
 }
 

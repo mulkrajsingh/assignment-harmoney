@@ -1,3 +1,10 @@
+# How to run
+1. Install node_modules
+`npm install`
+2. Run on localhost:3000
+`npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
